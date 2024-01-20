@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="landing.css">
+    <title>web</title>
+    
+</head>
+<body>
+    <div class="web">
+   <div class="logo">
+    Web <br><span>Design</span>
+    <a href="#">Home</a>
+    <a href="#">Learning</a>
+    <a href="#">Certificate</a>
+    <a href="#">Contact us</a>
+    <select name="lan" id="lan">
+        <option value="English">English</option>
+        <option value="Hindi">Hindi</option>
+        <option value="Marathi">Marathi</option>
+        <option value="Urdu">Urdu</option>
+        <option value="Tamil">Tamil</option>
+        <option value="French">French</option>SS
+        <option value="Russian">Russian</option>
+    </select>
+</div>
+<h1 class="design">Designing Tomorrow's Web Today</h1>
+<h2 class="join"></h2>
+<p class="intro">"Unlock the door to limitless possibilities in web development with our engaging courses . Start learning, start saving, and start coding your Future. From HTML and CSS fundamentals to advanced JavaScript techniques, our program covers it all. Join now for a chance to enhance your skills for free!"
+</p>
+<button>Join for free</button>
+<form action="#">
+     <h2 class="login">Log in</h2>
+     <label for="name"> Name</label>
+    <input type="text" name="text" id="text" placeholder="Enter Your Name">
+    <label for="date">Date of Birth</label>
+    <input type="date" name="date" id="date" placeholder="Enter your Date of Birth">
+     <label for="email"> Email</label>
+    <input type="email" name="email" id="email" placeholder="Enter Your Email">
+   <label for="password">Password</label>
+    <input type="password" name="password" id="password" placeholder="Enter Your Password">
+    <input type="submit" value="Submit">
+</form>
+<h1 class="learning">What you will Learn?</h1>
+<p class="list">
+   
+    -Building Real time Project<br>
+    -Skill Enhancement for in demand jobs<br>
+    -Problem Solving Aptitude<br>
+   - Career Guidance and Support<br>
+    </p>
+    <h1 id="apply">Why you should join this course</h1>
+    <p class="data">
+    <img src="https://www.x-cart.com/wp-content/uploads/2017/09/how-to-become-a-web-deve.png" width="500px">
+   
+    With the rapid expansion of technology and internet usage, the demand for skilled web developers is expected to rise significantly. There is a high demand for skilled web developers, and this demand is only expected to increase in the future. According to the Bureau of Labor Statistics, employment of web developers is projected to grow 8 percent from 2020 to 2030, which is much faster than the average for all occupations.
+   </p>
+  
+<footer>
+    <div style="color: blueviolet;">Web<br><span style="font-size: 20px;"> Design</span></div>
+    <h4>Copyright @Webdesign</h4>
+ <div>
+    <a href="#" style="color: blueviolet;">Privacy policy</a>
+    <a href="#" style="color: blueviolet;">About</a>
+    <a href="#" style="color: blueviolet;">Security</a>
+    </div>
+</footer>
+</div>
+</body>
+</html>
